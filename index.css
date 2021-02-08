@@ -1,0 +1,133 @@
+
+body {
+
+background-color: white;
+margin: 40px;
+
+}
+
+
+#title {
+    text-align: center;
+    color: rgb(138, 31, 98);
+    font-size: 32px;
+    padding:40px;
+    }
+
+
+    #image {
+      background-size: cover;
+      background-position: center;
+      border-radius: 60%
+    }  
+  
+ .parrafo-1 {
+      font-size: 20px;
+      padding: 40px;
+      text-align: center;
+    }
+
+
+  p {
+    font-family: font-family: 'Crimson Pro', serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    color:  black;
+    text-align: center;
+
+  }
+
+
+  li {
+    font-family: font-family: 'Crimson Pro', serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    color: black;
+    text-align: left;
+  }
+
+  
+  .subtitulo-1 {
+    text-align: left;
+    font-size: 19px;
+    color: black;
+    padding: 20px;
+    font-style: italic;
+  }
+
+  .subtitulo-2 {
+    text-align: left;
+    font-size: 19px;
+    color: black;
+    padding: 20px;
+    font-style: italic;
+  }
+
+  #container {
+    width: 59px;
+    height: 200px;
+  }
+
+
+.investigaciones {
+    color: rgb(138, 31, 98);
+    text-align: center;
+    font-size: 22px;
+    padding: 24px;
+  }
+
+  .anna {
+    color: rgb(138, 31, 98);
+    text-align: center;
+    font-size: 24px;
+    padding: 40px;
+  }
+
+  .teachers {
+    color: rgb(138, 31, 98);
+    text-align:center;
+    font-size: 24px;
+    padding: 40px;
+  }
+
+  .experiential-experiences {
+    margin: 2;
+    color: rgb(138, 31, 98);
+    text-align: left;
+    font-size: 24px;
+    padding: 40px;
+  }
+
+  .bibliography {
+    color: rgb(138, 31, 98);
+    text-align: left;
+    font-size: 24px;
+  }
+
+ a {
+   text-decoration: none;
+   color: black;
+  }
+
+}
+
+#sakura {
+  background-image: url("images/sak.jpg");
+  background-size: cover;
+  background-position: bottom center;
+  height: 100px;
+  width: 100%;
+}
+
+
+
+  #writeme {
+  color: white; 
+  text-align: right;
+  font-size: 18px;
+  background-image: url("https://www.10wallpaper.com/wallpaper/medium/1503/Spring_beautiful_Sakura_photography_HD_Wallpaper_01_medium.jpg");
+}
+
+
